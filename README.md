@@ -7,18 +7,20 @@
 <a href="https://twitter.com/johncovv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fedhrm" height="20" width="20" /></a>
 <a href="https://discord.com/users/426609168217276417" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="fedhrm" height="20" width="20" /></a>
 </p>
-
-<p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="25" height="25"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="25" height="25"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25"/>
-</p>
-
+</br>
 
 - 🔭 Atualmente trabalhando no projeto público [Devian](https://github.com/johncovv/devian)
 
 - 📫 Contate-me em [contato@johncovv.com](mailto:contato@johncovv.com)
+
+<h3>Linguagens e ferramentas:</h3>
+<span align="left">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="25" height="25"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="25" height="25"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25"/>
+</span>
+</br></br>
 
 <span align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=johncovv&show_icons=true" alt="johncovv"/> 
