@@ -1,31 +1,33 @@
-<h1 align="center">Olá 👋, eu sou John Covv.</h1>
-<h3 align="center">Um desenvolvedor web apaixonado por Javascript.</h3>
+<h1 align="center">Hello 👋, I'm John Covv</h1>
+<h3 align="center">A Brazilian developer passionate about JavaScript.</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/johncovv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nicolauns" height="20" width="20" /></a>
-<a href="https://fb.com/johncovv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nicolauns" height="20" width="20" /></a>
-<a href="https://twitter.com/johncovv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fedhrm" height="20" width="20" /></a>
-<a href="https://discord.com/users/426609168217276417" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="fedhrm" height="20" width="20" /></a>
+	<a href="https://linkedin.com/in/johncovv" target="blank"><img align="center" src="assets/linkedin.svg" alt="nicolauns" height="30" width="30" /></a>
+	<a href="https://fb.com/johncovv" target="blank"><img align="center" src="assets/facebook.svg" alt="nicolauns" height="30" width="30" /></a>
+	<a href="https://twitter.com/johncovv" target="blank"><img align="center" src="assets/twitter.svg" alt="fedhrm" height="30" width="30" /></a>
+	<a href="https://discord.com/users/426609168217276417" target="blank"><img align="center" src="assets/discord.svg" alt="fedhrm" height="30" width="30" /></a>
 </p>
-</br>
+<br>
 
-- 🔭 Atualmente trabalhando no projeto público [Devian](https://github.com/johncovv/devian)
+- 🔭 Currently working on [Devian](https://github.com/johncovv/devian)
 
-- 📫 Contate-me em [contato@johncovv.com](mailto:contato@johncovv.com)
+- 🌱 I’m currently learning [React Native](https://reactnative.dev/)
 
-<h3>Linguagens e ferramentas:</h3>
+- 📫 Contact me at [contato@johncovv.com](mailto:contato@johncovv.com)
+
+<h3>Languages ​​and tools:</h3>
 <span align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="25" height="25"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="25" height="25"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25"/>
+  <img src="assets/javascript.svg" alt="javascript" width="30" height="30"/>
+  <img src="assets/react.svg" alt="react" width="30" height="30"/>
+  <img src="assets/nodejs.svg" alt="nodejs" width="30" height="30"/>
+  <img src="assets/mongodb.svg" alt="mongodb" width="30" height="30"/>
 </span>
-</br></br>
+</br></br><br>
 
-<span align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johncovv&show_icons=true" alt="johncovv"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johncovv&show_icons=true&layout=compact" alt="johncovv github top langs" /><br>
-</span>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=johncovv&show_icons=true" alt="johncovv stats"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johncovv&show_icons=true&layout=compact" alt="johncovv github top langs" />
+</div>
 <!--
 **johncovv/johncovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -39,4 +41,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
