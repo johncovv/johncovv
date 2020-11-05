@@ -1,5 +1,13 @@
 <h1 align="center">Olá 👋, eu sou John Covv.</h1>
 <h3 align="center">Um desenvolvedor web apaixonado por Javascript.</h3>
+
+<p align="center">
+<a href="https://linkedin.com/in/johncovv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nicolauns" height="20" width="20" /></a>
+<a href="https://fb.com/johncovv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nicolauns" height="20" width="20" /></a>
+<a href="https://twitter.com/johncovv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fedhrm" height="20" width="20" /></a>
+<a href="https://discord.com/users/426609168217276417" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="fedhrm" height="20" width="20" /></a>
+</p>
+
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="25" height="25"/>
@@ -12,16 +20,10 @@
 
 - 📫 Contate-me em [contato@johncovv.com](mailto:contato@johncovv.com)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=johncovv&show_icons=true" alt="johncovv"/> 
-</p>
-
-<p align="center">
-<a href="https://linkedin.com/in/johncovv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nicolauns" height="20" width="20" /></a>
-<a href="https://fb.com/johncovv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nicolauns" height="20" width="20" /></a>
-<a href="https://twitter.com/johncovv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fedhrm" height="20" width="20" /></a>
-<a href="https://discord.com/users/426609168217276417" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="fedhrm" height="20" width="20" /></a>
-</p>
+<span align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=johncovv&show_icons=true" alt="johncovv"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johncovv&show_icons=true&layout=compact" alt="johncovv github top langs" /><br>
+</span>
 <!--
 **johncovv/johncovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
