@@ -11,7 +11,7 @@
 
 - 🔭 Currently working on [Devian](https://github.com/johncovv/devian)
 
-- 🌱 I’m currently learning [React Native](https://reactnative.dev/)
+- 🌱 I’m currently learning [Angular](https://angular.io/)
 
 - 📫 Contact me at [contato@johncovv.com](mailto:contato@johncovv.com)
 
